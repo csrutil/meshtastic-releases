@@ -21,19 +21,19 @@ Original Meshtastic Project: [https://github.com/meshtastic](https://github.com/
 
 Supports ESP32, nRF52 boards.
 
-| Device Name | Manufacturer | Type | Key Features |
-|-------------|--------------|------|--------------|
-| heltec-mesh-node-t114 | Heltec | Mesh Node | T114 variant |
-| heltec-wireless-tracker | Heltec | Tracker | Wireless tracking |
-| heltec-v3 | Heltec | General | Version 3 device |
-| heltec-mesh-pocket-10000-inkhud | Heltec | Pocket Device | 10000mAh battery, ink HUD display |
-| heltec-mesh-pocket-5000-inkhud | Heltec | Pocket Device | 5000mAh battery, ink HUD display |
-| gat562_mesh_trial_tracker | GAT-IoT | GAT562 Tracker | Out of box variant |
-| gat562_mesh_evb_pro | GAT-IoT | GAT562 Tracker Board | Professional variant |
-| gat562_mesh_solar_relay | GAT-IoT | GAT562 Relay | Solar-powered variant |
-| nrf52_promicro_diy_xtal | Nordic/DIY | DIY Board(fakeTec_pcb) | Crystal oscillator |
-| nrf52_promicro_diy_tcxo | Nordic/DIY | DIY Board(fakeTec_pcb) | Temperature-compensated crystal oscillator |
-| seeed_wio_tracker_L1 | Seeed Studio | Tracker | WIO Tracker L1 variant |
+| **Device Name**                   | **Brand**    | **Category**   | **Key Features**                         |
+| --------------------------------- | ------------ | -------------- | ---------------------------------------- |
+| **Heltec Mesh Node T114**         | Heltec       | Mesh Node      | T114 variant for mesh communication      |
+| **Heltec Wireless Tracker**       | Heltec       | Tracker        | Wireless tracking device                 |
+| **Heltec V3**                     | Heltec       | General Device | 3rd generation multipurpose device       |
+| **Heltec Pocket 10000 (Ink HUD)** | Heltec       | Pocket Device  | 10,000mAh battery, e-ink display         |
+| **Heltec Pocket 5000 (Ink HUD)**  | Heltec       | Pocket Device  | 5,000mAh battery, e-ink display          |
+| **GAT562 Tracker (Trial)**        | GAT-IoT      | Tracker        | Out-of-box trial version                 |
+| **GAT562 EVB Pro**                | GAT-IoT      | Tracker Board  | Pro evaluation board variant             |
+| **GAT562 Solar Relay**            | GAT-IoT      | Relay Node     | Solar-powered relay device               |
+| **nRF52 Pro Micro (XTAL)**        | DIY / Nordic | DIY Board      | With standard crystal oscillator         |
+| **nRF52 Pro Micro (TCXO)**        | DIY / Nordic | DIY Board      | With temp-compensated crystal oscillator |
+| **WIO Tracker L1**                | Seeed Studio | Tracker        | Compact GPS-enabled tracking board       |
 
 ## ⚠️ Disclaimer
 
