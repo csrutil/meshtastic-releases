@@ -33,6 +33,7 @@ Supports ESP32, nRF52 boards.
 | gat562_mesh_solar_relay | GAT-IoT | GAT562 Relay | Solar-powered variant |
 | nrf52_promicro_diy_xtal | Nordic/DIY | DIY Board(fakeTec_pcb) | Crystal oscillator |
 | nrf52_promicro_diy_tcxo | Nordic/DIY | DIY Board(fakeTec_pcb) | Temperature-compensated crystal oscillator |
+| seeed_wio_tracker_L1 | Seeed Studio | Tracker | WIO Tracker L1 variant |
 
 ## ⚠️ Disclaimer
 
