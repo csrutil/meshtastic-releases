@@ -22,6 +22,7 @@ Or with options:
 4. Analyzes the diff to determine if multiple distinct logical changes are present
 5. If multiple distinct changes are detected, suggests breaking the commit into multiple smaller commits
 6. For each commit (or the single commit if not split), creates a commit message using emoji conventional commit format
+7. Do not add Claude co-authorship footer to commits
 
 ## Best Practices for Commits
 

@@ -23,20 +23,21 @@ Supports ESP32, nRF52 boards.
 
 | **Device Name**                   | **Brand**    | **Category**   | **Key Features**                         |
 | --------------------------------- | ------------ | -------------- | ---------------------------------------- |
-| **Heltec Mesh Node T114**         | Heltec       | Mesh Node      | T114 variant for mesh communication      |
-| **Heltec Wireless Tracker**       | Heltec       | Tracker        | Wireless tracking device                 |
-| **Heltec V3**                     | Heltec       | General Device | 3rd generation multipurpose device       |
-| **Heltec Pocket 10000 (Ink HUD)** | Heltec       | Pocket Device  | 10,000mAh battery, e-ink display         |
-| **Heltec Pocket 5000 (Ink HUD)**  | Heltec       | Pocket Device  | 5,000mAh battery, e-ink display          |
-| **GAT562 Tracker (Trial)**        | GAT-IoT      | Tracker        | Out-of-box trial version                 |
 | **GAT562 EVB Pro**                | GAT-IoT      | Tracker Board  | Pro evaluation board variant             |
 | **GAT562 Solar Relay**            | GAT-IoT      | Relay Node     | Solar-powered relay device               |
-| **nRF52 Pro Micro (XTAL)**        | DIY / Nordic | DIY Board      | With standard crystal oscillator         |
-| **nRF52 Pro Micro (TCXO)**        | DIY / Nordic | DIY Board      | With temp-compensated crystal oscillator |
+| **GAT562 Tracker (Trial)**        | GAT-IoT      | Tracker        | Out-of-box trial version                 |
+| **Heltec Mesh Node T114**         | Heltec       | Mesh Node      | T114 variant for mesh communication      |
+| **Heltec Pocket 5000 (Ink HUD)**  | Heltec       | Pocket Device  | 5,000mAh battery, e-ink display          |
+| **Heltec Pocket 10000 (Ink HUD)** | Heltec       | Pocket Device  | 10,000mAh battery, e-ink display         |
+| **Heltec V3**                     | Heltec       | General Device | 3rd generation multipurpose device       |
+| **Heltec Wireless Tracker**       | Heltec       | Tracker        | Wireless tracking device                 |
 | **WIO Tracker L1**                | Seeed Studio | Tracker        | Compact GPS-enabled tracking board       |
+| **nRF52 Pro Micro (TCXO)**        | DIY / Nordic | DIY Board      | With temp-compensated crystal oscillator |
+| **nRF52 Pro Micro (XTAL)**        | DIY / Nordic | DIY Board      | With standard crystal oscillator         |
 
 ## ⚠️ Disclaimer
 
 > Not an official repo unless stated.  
 > All binaries and configurations are provided without warranty.  
+> No responsibility for damages or bug fixes.  
 > Beam me up if you want the patch files or you can download here [CJK patch](https://github.com/whywilson/meshtastic-firmware/commit/fd672aa0e4172a28f2c4f06c9b8d1b4ab86aacb6#diff-efc04cdb1a550eb433fb6d101f1de4c358546a8b02a7e0b5b17256f60d6e0869).
