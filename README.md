@@ -45,3 +45,5 @@ Supports ESP32, nRF52 boards.
 > All binaries and configurations are provided without warranty.  
 > No responsibility for damages or bug fixes.  
 > Beam me up if you want the patch files or you can download here [CJK patch](https://github.com/whywilson/meshtastic-firmware/commit/fd672aa0e4172a28f2c4f06c9b8d1b4ab86aacb6#diff-efc04cdb1a550eb433fb6d101f1de4c358546a8b02a7e0b5b17256f60d6e0869).
+
+> **CJK Implementation Notice**: The CJK text display feature and related ideas belong to TSAO. This implementation includes comprehensive support for Chinese, Japanese, and Korean character rendering with advanced mixed-content text processing capabilities.
