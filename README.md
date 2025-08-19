@@ -2,6 +2,10 @@
 
 Precompiled CJK firmware binaries for Meshtastic-compatible devices.
 
+## ⚠️ Important Notice
+
+> **All data in this project, including languages, texts, and firmware programs, is for testing purposes only. The author of this project bears no responsibility for any problems arising from its use or for any violations of local laws.**
+
 ## ✍️ Modifications & Maintainer Note
 
 This repository and its firmware builds are **unofficial** and maintained by **TSAO** (hey꩜tsao.dev).
