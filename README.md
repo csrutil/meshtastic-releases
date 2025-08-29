@@ -1,35 +1,38 @@
 # Meshtastic CJK Releases
 
-Precompiled CJK firmware binaries for Meshtastic-compatible devices.
+Meshtastic firmware with Chinese, Japanese & Korean support - because why not have mesh networks that speak your language? 🌏
 
-## ⚠️ Important Notice
+## What's this about?
 
-> **All data in this project, including languages, texts, and firmware programs, is for testing purposes only. The author of this project bears no responsibility for any problems arising from its use or for any violations of local laws.**
+Just some unofficial firmware builds that let your Meshtastic devices display CJK characters properly. No more weird squares or broken text when your friends send messages in Chinese, Japanese, or Korean.
 
-## ✍️ Modifications & Maintainer Note
+Made by TSAO (hey꩜tsao.dev) | Based on [Meshtastic](https://github.com/meshtastic) | GPLv3 license
 
-This repository and its firmware builds are **unofficial** and maintained by **TSAO** (hey꩜tsao.dev).
-All changes, including device support extensions and CJK font integrations, are made independently and provided under the same GPLv3 license as the original Meshtastic project.
+## The Fine Print 📝
 
-You are free to use, modify, and redistribute this work under the terms of the GPLv3.  
-However, I kindly ask that you **do not sell these binaries commercially**, though this is a non-binding request (permissible use is governed solely by the GPLv3 license).
+- **Testing only**: This stuff is for testing/fun, not production. If it breaks something, that's on you
+- **Unofficial**: This isn't from the official Meshtastic team - just a side project
+- **No warranty**: It works on my machine ¯\_(ツ)_/¯
+- **Don't sell these**: Please don't make money off these builds (though legally you could under GPLv3)
+- **CJK code**: The CJK display stuff is my work. [Patch files here](https://github.com/whywilson/meshtastic-firmware/commit/fd672aa0e4172a28f2c4f06c9b8d1b4ab86aacb6#diff-efc04cdb1a550eb433fb6d101f1de4c358546a8b02a7e0b5b17256f60d6e0869) if you want to see how it works
 
-Original Meshtastic Project: [https://github.com/meshtastic](https://github.com/meshtastic)
+## How to Flash This Thing 🔧
 
-## 🚀 Usage
+Pick your poison:
 
-- Flash via [Web Flasher](https://flasher.meshtastic.org), or
-- Download from [Releases](https://github.com/csrutil/meshtastic-releases) and flash manually.
+- **Easy mode**: Go to [flasher.meshtastic.org](https://flasher.meshtastic.org) and flash it from your browser
+- **DIY mode**: Download from [releases](https://github.com/csrutil/meshtastic-releases) and flash manually
 
-## 📱 Devices
+## What Devices Work? 📱
 
-Supports ESP32, nRF52 boards.
+Works with ESP32 and nRF52 boards. Here's what I've tested:
 
-### Device Images
+### Some Pretty Pictures 📸
 
 <img src="assets/gat562_mesh_trial_tracker.jpeg" alt="GAT562 Mesh Trial Tracker" width="400">
-
 <img src="assets/heltec-v3.jpeg" alt="Heltec V3" width="400">
+
+### The Full Device List
 
 | **Device Name**                   | **Brand**    | **Category**   | **Key Features**                         |
 | --------------------------------- | ------------ | -------------- | ---------------------------------------- |
@@ -44,12 +47,3 @@ Supports ESP32, nRF52 boards.
 | **WIO Tracker L1**                | Seeed Studio | Tracker        | Compact GPS-enabled tracking board       |
 | **nRF52 Pro Micro (TCXO)**        | DIY / Nordic | DIY Board      | With temp-compensated crystal oscillator |
 | **nRF52 Pro Micro (XTAL)**        | DIY / Nordic | DIY Board      | With standard crystal oscillator         |
-
-## ⚠️ Disclaimer
-
-> Not an official repo unless stated.  
-> All binaries and configurations are provided without warranty.  
-> No responsibility for damages or bug fixes.  
-> Beam me up if you want the patch files or you can download here [CJK patch](https://github.com/whywilson/meshtastic-firmware/commit/fd672aa0e4172a28f2c4f06c9b8d1b4ab86aacb6#diff-efc04cdb1a550eb433fb6d101f1de4c358546a8b02a7e0b5b17256f60d6e0869).
-
-> **CJK Implementation Notice**: The CJK text display feature and related ideas belong to TSAO. This implementation includes comprehensive support for Chinese, Japanese, and Korean character rendering with advanced mixed-content text processing capabilities.
