@@ -25,6 +25,12 @@ Original Meshtastic Project: [https://github.com/meshtastic](https://github.com/
 
 Supports ESP32, nRF52 boards.
 
+### Device Images
+
+<img src="assets/gat562_mesh_trial_tracker.jpeg" alt="GAT562 Mesh Trial Tracker" width="400">
+
+<img src="assets/heltec-v3.jpeg" alt="Heltec V3" width="400">
+
 | **Device Name**                   | **Brand**    | **Category**   | **Key Features**                         |
 | --------------------------------- | ------------ | -------------- | ---------------------------------------- |
 | **GAT562 EVB Pro**                | GAT-IoT      | Tracker Board  | Pro evaluation board variant             |
