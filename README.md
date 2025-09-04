@@ -48,3 +48,8 @@ Works with ESP32 and nRF52 boards. Here's what I've tested:
 | **WIO Tracker L1**                | Seeed Studio | Tracker        | Compact GPS-enabled tracking board       |
 | **nRF52 Pro Micro (TCXO)**        | DIY / Nordic | DIY Board      | With temp-compensated crystal oscillator |
 | **nRF52 Pro Micro (XTAL)**        | DIY / Nordic | DIY Board      | With standard crystal oscillator         |
+
+### Groups & Websites
+
+- https://t.me/mesh_china
+- https://meshcn.net
