@@ -1,3 +1,17 @@
+# LET'S GO TO MESHCORE https://github.com/meshcore-dev/MeshCore
+
+# This repository will not be updated anymore
+
+***IF YOU WANT OTHERS TO DO SOMETHING FOR FREE, PLEASE BE POLITE.***  
+***IF YOU WANT OTHERS TO DO SOMETHING FOR FREE, PLEASE BE POLITE.***  
+***IF YOU WANT OTHERS TO DO SOMETHING FOR FREE, PLEASE BE POLITE.***
+
+**Clone patch repo, build it yourself.**
+
+**PATCH source code removed**
+
+---
+
 # Meshtastic CJK Releases
 
 Meshtastic firmware with Chinese, Japanese & Korean support - because why not have mesh networks that speak your language? 🌏
@@ -14,7 +28,6 @@ Made by TSAO (hey꩜tsao.dev) | Based on [Meshtastic](https://github.com/meshtas
 - **Unofficial**: This isn't from the official Meshtastic team - just a side project
 - **No warranty**: It works on my machine ¯\_(ツ)_/¯
 - **Don't sell these**: Please don't make money off these builds (though legally you could under GPLv3)
-- **CJK code**: The CJK display stuff is my work. [Patch files here](https://github.com/whywilson/meshtastic-firmware/commit/fd672aa0e4172a28f2c4f06c9b8d1b4ab86aacb6#diff-efc04cdb1a550eb433fb6d101f1de4c358546a8b02a7e0b5b17256f60d6e0869) if you want to see how it works
 - **Warning⚠️**: The author of this project bears no responsibility for any problems arising from its use or for any violations of local laws
 
 ## How to Flash This Thing 🔧
